@@ -1,1 +1,1 @@
-# example
+![这里是图片](./bird.jpg "鸟")
